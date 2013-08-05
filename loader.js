@@ -7,7 +7,7 @@
 		base + "/vendor/jquery.js",
 		base + "/vendor/jquery-ui.js",
 		base + "/vendor/qunit.js",
-		base + "/vendor/a.js",
+		//base + "/vendor/a.js",
 		base + "/vendor/microdata.js",
 	];
 
